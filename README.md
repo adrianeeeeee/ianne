@@ -1,9 +1,7 @@
 <h1 align="center">Hi, I'm Adrian Farrel Aziz Yatyoga 🚀</h1>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=FF3670&size=35&center=true&vCenter=true&width=1100&lines=Hello!;My+Name+Is+Ian+desu!;Nice+to+meet+you!;I'm+a+Data+Engineer+desu!)](https://git.io/typing-svg)
-
 <br>
-
 🧑‍💻 Learning Data Science and Programming<br>
 🧑‍🎓 Studied Data Science at the the Sebelas Maret University, Indonesia<br>
 📃 Documenting journey step by step here<br>
@@ -19,7 +17,7 @@
 <img src="img/Loading_2-4.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Laptop and Coffee">
 
 #### Main Stack:
-[<img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=html"/>](https://developer.mozilla.org/en-US/docs/Web/HTML)
+[<img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=c"/>](https://developer.mozilla.org/en-US/docs/Web/C)
 [<img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=css"/>](https://developer.mozilla.org/en-US/docs/Web/CSS)
 [<img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=js"/>](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 [<img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=bootstrap"/>](https://getbootstrap.org)
