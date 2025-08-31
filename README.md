@@ -1,7 +1,9 @@
 <h1 align="center">Hi, I'm Adrian Farrel Aziz Yatyoga 🚀</h1>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=FF3670&size=35&center=true&vCenter=true&width=1100&lines=Hello!;My+Name+Is+Ian+desu!;Nice+to+meet+you!;I'm+a+Data+Engineer+desu!)](https://git.io/typing-svg)
+
 <br>
+
 🧑‍💻 Learning Data Science and Programming<br>
 🧑‍🎓 Studied Data Science at the the Sebelas Maret University, Indonesia<br>
 📃 Documenting journey step by step here<br>
@@ -11,7 +13,6 @@
 
 <br>
 
-
 ## Language and Tools
 
 <img src="img/Loading_2-4.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Laptop and Coffee">
@@ -20,14 +21,10 @@
 [<img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=c"/>](https://developer.mozilla.org/en-US/docs/Web/C)
 [<img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=java"/>](https://developer.mozilla.org/en-US/docs/Web/Java)
 [<img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=r"/>](https://developer.mozilla.org/en-US/docs/Web/R)
-[<img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=bootstrap"/>](https://getbootstrap.org)
-[<img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=tailwindcss"/>](https://tailwindcss.com)
-[<img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=php"/>](https://www.php.net)
-[<img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=mysql"/>](https://www.mysql.com)
-[<img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=laravel"/>](https://laravel.com)
+[<img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=sqlserver"/>](https://developer.mozilla.org/en-US/docs/Web/Sqlserver)
 
 #### Studying in this moment:
-[<img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=vuejs"/>](https://vuejs.org)
+[<img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=pbi"/>](https://vuejs.org)
 [<img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=react"/>](https://react.dev)
 [<img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=kotlin"/>](https://www.kotlinlang.org)
 
