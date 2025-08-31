@@ -15,13 +15,13 @@
 
 ## Language and Tools
 
-<img src="img/Loading_2-4.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Laptop and Coffee">
+<img src="https://www.pngegg.com/en/png-ygqlx" min-width="400px" max-width="400px" width="400px" align="right">
 
 #### Main Stack:
 ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=c,python,java,r,sqlserver,stackoverflow&perline=3)
 
 #### Studying in this moment:
-![My Skills](https://go-skill-icons.vercel.app/api/icons?i=excel,powerbi,stackoverflow&perline=3)
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=excel,pbi,photoshop&perline=3)
 
 
 #### Tools:
@@ -34,7 +34,7 @@
 
 ## Connect with me:
 <div>
-    <a href="https://www.instagram.com/izardaffa_desu/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/Instagram-E1306C?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+    <a href="https://www.instagram.com/iannfr__/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/Instagram-E1306C?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
     <a href="https://www.github.com/ianne/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/Github-24292e?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>   
     <a href="#" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/Telegram-24A1DE?style=for-the-badge&logo=telegram&logoColor=white" target="_blank"></a>   
     <a href="#" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/Whatsapp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>   
