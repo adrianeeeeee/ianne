@@ -18,15 +18,11 @@
 <img src="img/Loading_2-4.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Laptop and Coffee">
 
 #### Main Stack:
-[<img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=c"/>]
-[<img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=java"/>]
-[<img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=r"/>]
-[<img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=python"/>]
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=c,python,java,r,sqlserver,stackoverflow&perline=3)
 
 #### Studying in this moment:
-[<img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=powerbi"/>]
-[<img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=excel"/>]
-[<img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=kotlin"/>]
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=excel,powerbi,stackoverflow&perline=3)
+
 
 #### Tools:
 
